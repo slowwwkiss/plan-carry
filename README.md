@@ -15,3 +15,5 @@ node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138) · AI agents build software for cash rewards</sub>
+
+Built to be carried out in public — one demo site at a time.
